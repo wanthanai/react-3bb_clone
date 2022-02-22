@@ -1,0 +1,167 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+  Copyright (c) 2017 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//! App Component
+
+//! Change Language
+
+//! Component
+
+//! Components
+
+//! Contents
+
+//! Fade In
+
+//! Footer Component
+
+//! Function
+
+//! Function Export Image user
+
+//! Languages
+
+//! Layout Component
+
+//! Media Queries
+
+//! Menu Desktop Component
+
+//! Menu Mobile Component
+
+//! Navbar Component
+
+//! Privileges Component
+
+//! PropTypes
+
+//! PropTypes 
+
+//! React
+
+//! React 
+
+//! React Carousel
+
+//! React Flags Select
+
+//! React Icons
+
+//! Return Compoenent
+
+//! Return Component
+
+//! Return Component 
+
+//! Return Component    
+
+//! Return Components
+
+//! Return Image
+
+//! Reuturn Component
+
+//! Second Nav Component
+
+//! Select Image
+
+//! Styled Components
+
+//! Styles
+
+//! Styles 
+
+//! Swiper
+
+//! Swiper 
+
+//! Swiper Modules
+
+//! Swiper Styles
+
+//! Swiper styles
+
+//! i18next
+
+//! i18next (Chage Language)
+
+//! i18next (Change Language)
+
+//! useEffect
+
+//! useState
+
+//! useState 
+
+//! useTranslation
+
+//! useTranslation (i18next)
